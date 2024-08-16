@@ -9,10 +9,10 @@
 
 ### <h3 align="center">👨‍💻 About Me</h3>
 <p align="center">
-- 🎮 I love playing and modding games like Shapez 2, Risk of Rain 2, I Am Future, Cyberpunk 2077, (and a lot more).<br>
-- 🛠️ I'm passionate about creating mods for my favorite games.<br>
-- 💻 I also enjoy coding and have experience in C#, TS, Rust, (and many others).<br>
-- 🌱 Currently learning Rust and C++.
+🎮 I love playing and modding games like Shapez 2, Risk of Rain 2, I Am Future, Cyberpunk 2077, (and a lot more).<br>
+🛠️ I'm passionate about creating mods for my favorite games.<br>
+💻 I also enjoy coding and have experience in C#, TS, Rust, (and many others).<br>
+🌱 Currently learning Rust and C++.
 </p>
 
 ---
