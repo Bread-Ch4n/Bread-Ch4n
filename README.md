@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm V0IDL355 👋</h1>
+<h1 align="center">Hi there, I'm Bread-Chan 👋</h1>
 <h3 align="center">A passionate gamer, modder, and coder from Lithuania</h3>
 
 <p align="center">
@@ -21,12 +21,12 @@
 ### <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=V0IDL355&theme=transparent&text_color=ca9ee6&title_color=ca9ee6&icon_color=ca9ee6&show_icons=true&include_all_commits=true&hide_border=true" alt="V0IDL355's GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=V0IDL355&theme=transparent&hide_border=true&stroke=CA9EE6&ring=CA9EE6&fire=CA9EE6&sideLabels=CA9EE6&dates=CA9EE6&currStreakLabel=CA9EE6&currStreakNum=CA9EE6&sideNums=CA9EE6" alt="V0IDL355's GitHub streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bread-Ch4n&theme=transparent&text_color=ca9ee6&title_color=ca9ee6&icon_color=ca9ee6&show_icons=true&include_all_commits=true&hide_border=true" alt="V0IDL355's GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bread-Ch4n&theme=transparent&hide_border=true&stroke=CA9EE6&ring=CA9EE6&fire=CA9EE6&sideLabels=CA9EE6&dates=CA9EE6&currStreakLabel=CA9EE6&currStreakNum=CA9EE6&sideNums=CA9EE6" alt="V0IDL355's GitHub streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V0IDL355&theme=transparent&text_color=ca9ee6&title_color=ca9ee6&icon_color=ca9ee6&layout=compact&hide_border=true" alt="V0IDL355's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bread-Ch4n&theme=transparent&text_color=ca9ee6&title_color=ca9ee6&icon_color=ca9ee6&layout=compact&hide_border=true" alt="V0IDL355's Top Languages">
 </p>
 
 ---
