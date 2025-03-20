@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/212243828831289344"><img src="https://img.shields.io/badge/Discord-232634?style=flat-square&logo=discord&logoColor=232634&color=ca9ee6" alt="Discord"></a>
+   <a href="[https://discord.com/users/212243828831289344](https://buymeacoffee.com/bread.chan)"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F79D5E?style=flat-square&logo=buy-me-a-coffee&logoColor=232634&color=ca9ee6" alt="Buy Me a Coffe"></a>
 </p>
 
 ---
@@ -21,12 +22,12 @@
 ### <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bread-Ch4n&theme=transparent&text_color=ca9ee6&title_color=ca9ee6&icon_color=ca9ee6&show_icons=true&include_all_commits=true&hide_border=true" alt="V0IDL355's GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bread-Ch4n&theme=transparent&hide_border=true&stroke=CA9EE6&ring=CA9EE6&fire=CA9EE6&sideLabels=CA9EE6&dates=CA9EE6&currStreakLabel=CA9EE6&currStreakNum=CA9EE6&sideNums=CA9EE6" alt="V0IDL355's GitHub streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bread-Ch4n&theme=transparent&text_color=ca9ee6&title_color=ca9ee6&icon_color=ca9ee6&show_icons=true&include_all_commits=true&hide_border=true" alt="Bread-Ch4n's GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bread-Ch4n&theme=transparent&hide_border=true&stroke=CA9EE6&ring=CA9EE6&fire=CA9EE6&sideLabels=CA9EE6&dates=CA9EE6&currStreakLabel=CA9EE6&currStreakNum=CA9EE6&sideNums=CA9EE6" alt="Bread-Ch4n's GitHub streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bread-Ch4n&theme=transparent&text_color=ca9ee6&title_color=ca9ee6&icon_color=ca9ee6&layout=compact&hide_border=true" alt="V0IDL355's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bread-Ch4n&theme=transparent&text_color=ca9ee6&title_color=ca9ee6&icon_color=ca9ee6&layout=compact&hide_border=true" alt="Bread-Ch4n's Top Languages">
 </p>
 
 ---
