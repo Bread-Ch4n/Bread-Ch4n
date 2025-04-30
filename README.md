@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://discord.com/users/212243828831289344"><img src="https://img.shields.io/badge/Discord-232634?style=flat-square&logo=discord&logoColor=232634&color=ca9ee6" alt="Discord"></a>
    <a href="https://buymeacoffee.com/bread.chan"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F79D5E?style=flat-square&logo=buy-me-a-coffee&logoColor=232634&color=ca9ee6" alt="Buy Me a Coffe"></a>
+  <a href="https://next.nexusmods.com/profile/BreadCh4n"><img src="https://img.shields.io/badge/NexusMods-F79D5E?style=flat-square&logo=nexusmods&logoColor=232634&color=ca9ee6" alt="NexusMods"></a>
 </p>
 
 ---
