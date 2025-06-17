@@ -20,7 +20,7 @@
 <p align="center">
   ✨ I loooove playing & modding my fave games like <br><b>Shapez 2, Risk of Rain 2, I Am Future, Cyberpunk 2077</b> (and more~!)<br>
   🛠 Modding is my happy place! I adore bringing new life into games 💕<br>
-  💻 I'm a comfy coder in <b>C#, TypeScript, Rust</b> (and a few secret ones 😼)<br>
+  💻 I'm a comfy coder in <b>C#, TypeScript, Rust</b><br>
   🌱 Learning <b>Rust</b> and <b>C++</b> atm! It's like learning magic spells ✨🔧
 </p>
 
