@@ -1,5 +1,5 @@
 <h1 align="center">🍞✨ Hii~ I'm Bread-Chan! ✨🍞</h1>
-<h3 align="center">🎮 A cozy gamer, modder & cutie coder from Lithuania 💖</h3>
+<h3 align="center">🎮 A cozy gamer, modder & coder from Lithuania 💖</h3>
 
 <p align="center">
   <a href="https://discord.com/users/212243828831289344">
